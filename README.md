@@ -1,4 +1,6 @@
-# Awesome Furcadia: Curated list of awesome Furcadia resources from the community
+# Awesome Furcadia
+
+**Curated list of awesome Furcadia resources from the community**
 
 This list contains links to various community created resources concerning the free-to-play MMORPG Furcadia developed by Dragon's Eye Productions, Inc.
 
@@ -14,12 +16,19 @@ Official website: https://www.furcadia.com/
 
 ## Resource archives
 
+* [Furre-Archive-Group](https://github.com/Furre-Archive-Group) - GitHub group with repositories archiving various official resources of Furcadia.
 
-## DragonScripting resources
+
+## DragonScript resources
 
 
 ## Development resources
 
+https://furcadia.fandom.com/wiki/Protocol
+* [Furcadia Fandom Wiki - Protocol](https://furcadia.fandom.com/wiki/Protocol) - Client-Server protocol documentation (last updated 2012)
+
 
 ## Development libraries
+
+* [libfurc](https://github.com/FelixWolf/libfurc) - Python-based library for interaction with the server.
 
