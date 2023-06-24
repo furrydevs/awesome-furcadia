@@ -31,10 +31,11 @@ Official website: https://www.furcadia.com/
 ## Development resources
 
 * [Furcadia Fandom Wiki - Protocol](https://furcadia.fandom.com/wiki/Protocol) - Client-Server protocol documentation. (last updated 2012)
-
+* [FTR - Furcadia Technical Resources](https://ftr.icerealm.org/about) - Collection of technical resources. Partly disfuctional but some useful resources like [Server2Client Protocol](https://ftr.icerealm.org/ref-instructions/) still exist. (last updated 2009)
 
 ## Development libraries and frameworks
 
+* [libFurk](https://gitlab.com/furrydevs/libfurk) - In-development Kotlin-based library to interact with Furcadia.
 * [libfurc](https://github.com/FelixWolf/libfurc) - Python-based library for interaction with the server.
 * [FurcadiaFramework](https://starship-avalon-projects.github.io/FurcadiaFramework/) - .Net-based framework and documentation for interaction with the server.
 
